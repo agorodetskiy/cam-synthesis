@@ -5,4 +5,4 @@
 Program can create a cam profile based on the specified parameters for production on a machine and is able to show animation of mechanism’s
 operation.
 
-![alt text](https://raw.githubusercontent.com/agorodetskiy/cam-synthesis/master/view.png)
+![alt text](https://github.com/agorodetskiy/cam-synthesis/blob/master/view.png)
