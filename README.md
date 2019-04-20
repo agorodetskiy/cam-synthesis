@@ -1,6 +1,6 @@
 # CAM Synthesis
 
-### Theory of machines and mechanisms course project, 2015
+### Theory of machines and mechanisms course project, 2016
 
 Program can create a cam profile based on the specified parameters for production on a machine.
 
