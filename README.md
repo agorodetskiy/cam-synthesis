@@ -8,7 +8,7 @@ Program can create a cam profile based on the specified parameters for productio
 
 Features
 * able to handle rotating / progressive pusher types
-* animation of mechanism’s operation (so rotational!)
+* animation of mechanism’s operation ( *so rotational!* )
 * plotting phase portrait in dec / polar coords
 
 ![alt text](https://github.com/agorodetskiy/cam-synthesis/blob/master/view.png)
