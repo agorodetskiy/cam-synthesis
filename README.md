@@ -11,4 +11,4 @@ Features
 * animation of mechanism’s operation (so rotational!)
 * plotting phase portrait in dec / polar coords
 
-![alt text](https://raw.githubusercontent.com/agorodetskiy/cam-synthesis/master/view.png)
+![alt text](https://github.com/agorodetskiy/cam-synthesis/blob/master/view.png)
